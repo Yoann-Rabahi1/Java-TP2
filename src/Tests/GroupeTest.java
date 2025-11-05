@@ -1,15 +1,10 @@
 /*
  * TP2 Exo 3
- * Teddy Rakotoarivelo
+ * Teddy Rakotoarivelo, Stéphane Singery, Yoann Rabahi
  * 03/11/2025
  * I1-APP-BDML2
  */
 package Tests;
-
-/**
- *
- * @author Teddy.R
- */
 
 import Organisation.Etudiant;
 import Organisation.Groupe;
@@ -35,3 +30,4 @@ public class GroupeTest {
         g1.afficherPrenomsParAge(20);
     }
 }
+
