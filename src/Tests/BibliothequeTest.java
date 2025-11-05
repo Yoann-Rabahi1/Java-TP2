@@ -1,6 +1,6 @@
 /*
  * TP2 Exo 3
- * Teddy Rakotoarivelo
+ * Teddy Rakotoarivelo, Stéphane Singery, Yoann Rabahi
  * 03/11/2025
  * I1-APP-BDML2
  */
@@ -11,10 +11,6 @@ import Organisation.Etagere;
 import Organisation.Livre;
 import Organisation.EtagereV2;
 
-/**
- *
- * @author Teddy.R
- */
 
 public class BibliothequeTest {
     public static void main(String[] args) {
@@ -113,3 +109,4 @@ public class BibliothequeTest {
         System.out.println("\n========== FIN TEST ETAGERE V2 ==========\n");
     }
 }
+
