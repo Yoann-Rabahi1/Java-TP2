@@ -22,7 +22,6 @@ public class Etagere {
         this.livres=new Livre[capacite];
     }
     
-    // --- Getters ---
     public int getCode() {
         return code;
     }
@@ -39,7 +38,6 @@ public class Etagere {
         return livres;
     }
 
-    // --- Setters ---
     public void setCode(int code) {
         this.code = code;
     }
@@ -159,5 +157,6 @@ public class Etagere {
         return titres.toArray(new String[0]);
     }
 }
+
 
 
