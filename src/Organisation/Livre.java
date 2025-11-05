@@ -1,16 +1,12 @@
 /*
  * TP2 Exo 3
- * Teddy Rakotoarivelo
+ * Teddy Rakotoarivelo, Stéphane Singery, Yoann Rabahi
  * 03/11/2025
  * I1-APP-BDML2
  */
 
 package Organisation;
 
-/**
- *
- * @author Teddy.R
- */
 public class Livre {
     private String titre;
     private int code;
@@ -76,3 +72,4 @@ public class Livre {
                 ", edition : " + anneeEdition;
     }
 }
+
