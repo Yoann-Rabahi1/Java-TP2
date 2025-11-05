@@ -9,10 +9,6 @@ package Organisation;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author Teddy.R
- */
 public class Etagere {
     private int code;
     private String domaine;
@@ -163,4 +159,5 @@ public class Etagere {
         return titres.toArray(new String[0]);
     }
 }
+
 
