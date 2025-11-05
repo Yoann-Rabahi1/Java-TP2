@@ -1,16 +1,11 @@
 /*
  * TP2 Exo 2
- * Teddy Rakotoarivelo
+ * Teddy Rakotoarivelo, Stéphane Singery, Yoann Rabahi
  * 03/11/2025
  * I1-APP-BDML2
  */
 
 package Bibliothèque;
-
-/**
- *
- * @author Teddy.R
- */
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -41,3 +36,4 @@ public static void main(String[] args) {
     System.out.println("Liste triée des nombres de pages : " + pages);
    }
  }
+
