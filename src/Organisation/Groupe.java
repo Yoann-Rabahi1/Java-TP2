@@ -1,16 +1,11 @@
 /*
  * TP2 Exo 3
- * Teddy Rakotoarivelo
+ * Teddy Rakotoarivelo, Stéphane Singery, Yoann Rabahi
  * 03/11/2025
  * I1-APP-BDML2
  */
 
 package Organisation;
-
-/**
- *
- * @author Teddy.R
- */
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -67,3 +62,4 @@ public class Groupe {
         return prenoms;
     }
 }
+
