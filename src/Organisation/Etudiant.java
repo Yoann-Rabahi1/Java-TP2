@@ -1,15 +1,10 @@
 /*
  * TP2 Exo 3
- * Teddy Rakotoarivelo
+ * Teddy Rakotoarivelo, Stéphane Singery, Yoann Rabahi
  * 03/11/2025
  * I1-APP-BDML2
  */
 package Organisation;
-
-/**
- *
- * @author Teddy.R
- */
 
 public class Etudiant {
     private int numEtudiant;
@@ -95,3 +90,4 @@ public class Etudiant {
                 ", moyenne = " + moyenne ;
     }
 }
+
