@@ -1,6 +1,6 @@
 /*
  * TP2 Exo 1
- * Teddy Rakotoarivelo
+ * Teddy Rakotoarivelo, Stéphane Singery, Yoann Rabahi
  * 17/10/2025
  * I1-APP-BDML2
  */
@@ -8,10 +8,6 @@
 
 package Tableau;
 
-/**
- *
- * @author Teddy.R
- */
 public class TestTableau {
         public static void main(String[] args) {
             int [] tab = {120, 350, 200, 500, 175, 90, 300};
@@ -37,3 +33,4 @@ public class TestTableau {
             
         }
 }
+
